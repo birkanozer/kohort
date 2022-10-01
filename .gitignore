@@ -282,6 +282,8 @@ dist
 
 package-lock.json
 **/*.bun
+*.bun
+bun.lockb
 
 
 #--------------------------#
